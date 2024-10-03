@@ -3,7 +3,7 @@
     padding: 0px;
  box-sizing: border-box;
 }
-@media (max-width:768px)  {
+@media (max-width:480px)  {
 
     header .login{
         display: none;
